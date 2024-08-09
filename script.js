@@ -42,5 +42,5 @@ function fibonacci(x) {
 	return answer2;
 }
 document.write("<h2>Fibonacci function:<br/></h2>");
-document.write("(8 - 1) + (8 - 2) =");
+document.write("(8 - 1) + (8 - 2) = ");
 document.write(fibonacci(8));
